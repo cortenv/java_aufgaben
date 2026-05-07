@@ -17,7 +17,7 @@ public class aufgabe {
 
         Zweite Zahl: 4
 
-        Ergebnis: 6
+        Ergebnis: 8
         */
 
 
